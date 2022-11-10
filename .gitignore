@@ -31,3 +31,5 @@ htmlcov/
 .github/**
 ./env
 env/
+./venv
+venv/
